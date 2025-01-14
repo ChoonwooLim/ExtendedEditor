@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "i:\\000_unrealwork\\extendededitor\\intermediate\\build\\win64\\unrealeditor\\inc\\extendededitor\\extendededitor.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "i:\\000_unrealwork\\extendededitor\\intermediate\\build\\win64\\extendededitoreditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "i:\\000_unrealwork\\extendededitor\\intermediate\\build\\win64\\unrealeditor\\development\\extendededitor\\definitions.extendededitor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"I:\\000_UnrealWork\\ExtendedEditor\\Source\\ExtendedEditor\\ExtendedEditor.Build.cs",
+		"I:\\000_UnrealWork\\ExtendedEditor\\Plugins\\SuperManager\\Source\\SuperManager\\SuperManager.Build.cs",
+		"I:\\000_UnrealWork\\ExtendedEditor\\Source\\ExtendedEditor.Target.cs",
+		"I:\\000_UnrealWork\\ExtendedEditor\\Source\\ExtendedEditorEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

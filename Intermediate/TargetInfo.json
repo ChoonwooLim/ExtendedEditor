@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ExtendedEditor",
+			"Path": "I:\\000_UnrealWork\\ExtendedEditor\\Source\\ExtendedEditor.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ExtendedEditorEditor",
+			"Path": "I:\\000_UnrealWork\\ExtendedEditor\\Source\\ExtendedEditorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
